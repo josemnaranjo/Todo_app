@@ -5,5 +5,9 @@
 2. Ingrese a la carpeta creada ingresando en la consola el comando "cd Todo_app"
 
 3. Una vez posicionado en la carpeta del proyecto, instale las dependencias correspondientes ingresando en la consola el comando "npm install".
-   Cuando termine la instalación, haga correr el backend ingresando el comando "npm run server".
-   Luego, abra otra consola en la misma carpeta "Todo_app" e implemente el front con el comando npm run dev.
+
+4. Cuando termine la instalación, haga correr el backend ingresando el comando "npm run server".
+
+5. Luego, abra otra consola en la misma carpeta "Todo_app" e implemente el front con el comando "npm run dev".
+
+6. En el navegador ingrese a la direccion http://localhost:5173/
